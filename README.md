@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yizhen05&layout=compact&theme=cobalt
 )](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yizhen05&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yizhen05/yizhen05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
