@@ -1,17 +1,12 @@
 ## Hi there 👋
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <p align="left" style="flex: 1; display: flex; justify-content: space-between;">
-    <img alt="Top Langs" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yizhen05&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-    <img alt="github stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=yizhen05&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-  </p>
-</div>
-
-<div style="width: 100%; display: flex; justify-content: center;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="trophy" width="70%" src="https://github-profile-trophy.vercel.app/?username=yizhen05&theme=tokyonight&column=4" />
-  </a>
-</div>
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yizhen05&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yizhen05&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+</p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img alt="trophy" width="70%" src="https://github-profile-trophy.vercel.app/?username=yizhen05&theme=tokyonight&column=4" />
+</a>
 
 
 
